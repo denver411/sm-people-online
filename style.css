@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: sans-serif;
+}
+
+.main-image {
+  max-width: 100%;
+  max-width: 100%;
+}
